@@ -5,7 +5,7 @@
 //  Details: this node lets you convert a curve arc length into a u parameter
 //  Example: (MEL) createNode basicNode
 //
-//  Created by Stephan Osterburg on 4/18/17.
+//  Created by Stephan Osterburg on 12/18/17
 //
 //
 

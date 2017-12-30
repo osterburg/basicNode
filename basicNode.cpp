@@ -2,7 +2,7 @@
 //  basicNode.cpp
 //  basicNode
 //
-//  Created by Stephan Osterburg on 4/18/17.
+//  Created by Stephan Osterburg on 12/18/17
 //
 //
 #include <basicNode.h>
