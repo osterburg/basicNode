@@ -83,7 +83,7 @@ MStatus basicNode::compute(const MPlug& plug, MDataBlock& dataBlock)
         MFnNurbsCurve crvFn(crvVal);
         double outVal = crvFn.findParamFromLength(inVal);
         
-        MGlobal::displayInfo("baseNode works");
+        MGlobal::displayInfo("baseNode works"); // displayInfo(MString() + inVal) to display a number as string
         
         // Set the output
         dataBlock.outputValue(outputValue).set(outVal);
